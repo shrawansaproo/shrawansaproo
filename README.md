@@ -154,15 +154,16 @@
   </table>
 </div>
 
-## 📊 GitHub Activity
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solopeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solopeer&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solopeer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrawansaproo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shrawansaproo&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrawansaproo&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ## 🏆 Community Achievements
