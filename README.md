@@ -50,14 +50,14 @@
   </table>
 </div>
 
-### What I'm Doing Now:
+### 🚀 What I'm Doing Now
 
-- 🏡 Working with local neighborhoods to build stronger communities
-- 🌱 Teaching basic tech skills to people of all ages
-- 💬 Hosting regular meetups where neighbors can share ideas
-- 👨‍💻 Creating simple guides to help people use technology in their daily lives
-- 🤝 Connecting people with resources they need in our community
-- 📱 Explore my community projects at [my portfolio](https://linktr.ee/shrawansaproo)
+- 🏗️ Building and scaling developer communities across Pune and beyond  
+- 🎤 Hosting high impact tech meetups, workshops, and collaborations  
+- 📚 Creating practical, beginner friendly technical content  
+- 🤝 Partnering with global tech communities and ecosystem leaders  
+- 🌱 Mentoring aspiring developers and community builders  
+- 🔗 Explore my work and community initiatives: [Portfolio](https://linktr.ee/shrawansaproo)
 
 ## 🛠️ Tech Stack
 
