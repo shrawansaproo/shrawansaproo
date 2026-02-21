@@ -50,15 +50,34 @@
   </table>
 </div>
 
-### 🚀 What I'm Doing Now
+<h2 align="center">🚀 What I'm Building Right Now</h2>
 
-- 🏗️ Building and scaling developer communities across Pune and beyond  
-- 🎤 Hosting high impact tech meetups, workshops, and collaborations  
-- 📚 Creating practical, beginner friendly technical content  
-- 🤝 Partnering with global tech communities and ecosystem leaders  
-- 🌱 Mentoring aspiring developers and community builders  
-- 🔗 Explore my work and community initiatives: [Portfolio](https://linktr.ee/shrawansaproo)
+<p align="center">
+  Turning ideas into communities.  
+  Turning communities into impact.
+</p>
 
+---
+
+<div align="center">
+
+### 🏗️ Community & Ecosystem
+
+✨ Scaling developer communities across Pune and beyond  
+🎤 Hosting high-impact meetups, workshops & cross-community collaborations  
+🤝 Partnering with global tech ecosystems & developer programs  
+
+### 📚 Content & Mentorship
+
+🧠 Creating practical, beginner-friendly technical content  
+🌱 Mentoring aspiring developers & community leaders  
+💡 Simplifying complex tech into actionable insights  
+
+---
+
+🔗 **Explore my work & initiatives →** [Portfolio](https://linktr.ee/shrawansaproo)
+
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
